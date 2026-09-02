@@ -1,15 +1,100 @@
 {
-  "updated_at": "2026-09-02T07:21:01+08:00",
+  "updated_at": "2026-09-02T12:40:29+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
-    "otc_buyable": 32,
-    "changes": 0
+    "otc_buyable": 38,
+    "changes": 12
   },
-  "changes": [],
+  "changes": [
+    {
+      "code": "007721",
+      "name": "天弘标普500发起(QDII-FOF)A",
+      "change": "status"
+    },
+    {
+      "code": "007722",
+      "name": "天弘标普500发起(QDII-FOF)C",
+      "change": "status"
+    },
+    {
+      "code": "022523",
+      "name": "天弘标普500发起(QDII-FOF)D",
+      "change": "status"
+    },
+    {
+      "code": "018043",
+      "name": "天弘纳斯达克100指数发起(QDII)A",
+      "change": "status"
+    },
+    {
+      "code": "018044",
+      "name": "天弘纳斯达克100指数发起(QDII)C",
+      "change": "status"
+    },
+    {
+      "code": "018966",
+      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币A",
+      "change": "up"
+    },
+    {
+      "code": "018967",
+      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币C",
+      "change": "up"
+    },
+    {
+      "code": "019547",
+      "name": "招商纳斯达克100ETF发起式联接(QDII)A",
+      "change": "down"
+    },
+    {
+      "code": "019548",
+      "name": "招商纳斯达克100ETF发起式联接(QDII)C",
+      "change": "down"
+    },
+    {
+      "code": "021773",
+      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币E",
+      "change": "up"
+    },
+    {
+      "code": "022525",
+      "name": "天弘纳斯达克100指数发起(QDII)D",
+      "change": "status"
+    },
+    {
+      "code": "160213",
+      "name": "国泰纳斯达克100指数",
+      "change": "up"
+    }
+  ],
   "funds": [
+    {
+      "index": "标普500",
+      "code": "007721",
+      "name": "天弘标普500发起(QDII-FOF)A",
+      "status": "限购",
+      "agency": 100,
+      "direct": 0,
+      "type": "场外",
+      "share": "A",
+      "channel_note": "—",
+      "change": "status"
+    },
+    {
+      "index": "标普500",
+      "code": "007722",
+      "name": "天弘标普500发起(QDII-FOF)C",
+      "status": "限购",
+      "agency": 100,
+      "direct": 0,
+      "type": "场外",
+      "share": "C",
+      "channel_note": "—",
+      "change": "status"
+    },
     {
       "index": "标普500",
       "code": "008401",
@@ -48,6 +133,18 @@
     },
     {
       "index": "标普500",
+      "code": "022523",
+      "name": "天弘标普500发起(QDII-FOF)D",
+      "status": "限购",
+      "agency": 100,
+      "direct": 0,
+      "type": "场外",
+      "share": "D",
+      "channel_note": "—",
+      "change": "status"
+    },
+    {
+      "index": "标普500",
       "code": "096001",
       "name": "大成标普500等权重指数(QDII)A人民币",
       "status": "限购",
@@ -62,30 +159,6 @@
       "index": "标普500",
       "code": "006075",
       "name": "博时标普500ETF联接C",
-      "status": "暂停",
-      "agency": 0,
-      "direct": 0,
-      "type": "场外",
-      "share": "C",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "标普500",
-      "code": "007721",
-      "name": "天弘标普500发起(QDII-FOF)A",
-      "status": "暂停",
-      "agency": 0,
-      "direct": 0,
-      "type": "场外",
-      "share": "A",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "标普500",
-      "code": "007722",
-      "name": "天弘标普500发起(QDII-FOF)C",
       "status": "暂停",
       "agency": 0,
       "direct": 0,
@@ -163,18 +236,6 @@
       "direct": 0,
       "type": "场外",
       "share": "—",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "标普500",
-      "code": "022523",
-      "name": "天弘标普500发起(QDII-FOF)D",
-      "status": "暂停",
-      "agency": 0,
-      "direct": 0,
-      "type": "场外",
-      "share": "D",
       "channel_note": "—",
       "change": "same"
     },
@@ -336,27 +397,51 @@
     },
     {
       "index": "纳斯达克100",
-      "code": "018966",
-      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币A",
+      "code": "018043",
+      "name": "天弘纳斯达克100指数发起(QDII)A",
       "status": "限购",
-      "agency": 10,
+      "agency": 100,
       "direct": 0,
       "type": "场外",
       "share": "A",
       "channel_note": "—",
-      "change": "same"
+      "change": "status"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "018044",
+      "name": "天弘纳斯达克100指数发起(QDII)C",
+      "status": "限购",
+      "agency": 100,
+      "direct": 0,
+      "type": "场外",
+      "share": "C",
+      "channel_note": "—",
+      "change": "status"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "018966",
+      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币A",
+      "status": "限购",
+      "agency": 10000,
+      "direct": 0,
+      "type": "场外",
+      "share": "A",
+      "channel_note": "全渠道统一10000元",
+      "change": "up"
     },
     {
       "index": "纳斯达克100",
       "code": "018967",
       "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币C",
       "status": "限购",
-      "agency": 10,
+      "agency": 10000,
       "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "—",
-      "change": "same"
+      "channel_note": "全渠道统一10000元",
+      "change": "up"
     },
     {
       "index": "纳斯达克100",
@@ -436,11 +521,11 @@
       "name": "招商纳斯达克100ETF发起式联接(QDII)A",
       "status": "限购",
       "agency": 10,
-      "direct": 100,
+      "direct": 0,
       "type": "场外",
       "share": "A",
-      "channel_note": "代销（第三方平台）10元；招商直销（官网/APP）100元",
-      "change": "same"
+      "channel_note": "代销（第三方平台）10元",
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
@@ -448,11 +533,11 @@
       "name": "招商纳斯达克100ETF发起式联接(QDII)C",
       "status": "限购",
       "agency": 10,
-      "direct": 100,
+      "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "代销（第三方平台）10元；招商直销（官网/APP）100元",
-      "change": "same"
+      "channel_note": "代销（第三方平台）10元",
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
@@ -495,12 +580,12 @@
       "code": "021773",
       "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币E",
       "status": "限购",
-      "agency": 10,
+      "agency": 10000,
       "direct": 0,
       "type": "场外",
       "share": "E",
-      "channel_note": "—",
-      "change": "same"
+      "channel_note": "全渠道统一10000元",
+      "change": "up"
     },
     {
       "index": "纳斯达克100",
@@ -513,6 +598,18 @@
       "share": "F",
       "channel_note": "广发基金APP直销，100元(Y查实)",
       "change": "same"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "022525",
+      "name": "天弘纳斯达克100指数发起(QDII)D",
+      "status": "限购",
+      "agency": 100,
+      "direct": 0,
+      "type": "场外",
+      "share": "D",
+      "channel_note": "—",
+      "change": "status"
     },
     {
       "index": "纳斯达克100",
@@ -555,12 +652,12 @@
       "code": "160213",
       "name": "国泰纳斯达克100指数",
       "status": "限购",
-      "agency": 50,
+      "agency": 100,
       "direct": 0,
       "type": "场外",
       "share": "—",
       "channel_note": "—",
-      "change": "same"
+      "change": "up"
     },
     {
       "index": "纳斯达克100",
@@ -672,30 +769,6 @@
     },
     {
       "index": "纳斯达克100",
-      "code": "018043",
-      "name": "天弘纳斯达克100指数发起(QDII)A",
-      "status": "暂停",
-      "agency": 0,
-      "direct": 0,
-      "type": "场外",
-      "share": "A",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
-      "code": "018044",
-      "name": "天弘纳斯达克100指数发起(QDII)C",
-      "status": "暂停",
-      "agency": 0,
-      "direct": 0,
-      "type": "场外",
-      "share": "C",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
       "code": "021838",
       "name": "嘉实纳斯达克100ETF发起联接(QDII)I人民币",
       "status": "暂停",
@@ -703,18 +776,6 @@
       "direct": 0,
       "type": "场外",
       "share": "I",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
-      "code": "022525",
-      "name": "天弘纳斯达克100指数发起(QDII)D",
-      "status": "暂停",
-      "agency": 0,
-      "direct": 0,
-      "type": "场外",
-      "share": "D",
       "channel_note": "—",
       "change": "same"
     },
