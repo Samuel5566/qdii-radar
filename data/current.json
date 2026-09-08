@@ -1,40 +1,14 @@
 {
-  "updated_at": "2026-09-08T12:43:25+08:00",
+  "updated_at": "2026-09-08T17:45:29+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
     "otc_buyable": 39,
-    "changes": 5
+    "changes": 0
   },
-  "changes": [
-    {
-      "code": "008401",
-      "name": "大成标普500等权重指数(QDII)C人民币",
-      "change": "up"
-    },
-    {
-      "code": "096001",
-      "name": "大成标普500等权重指数(QDII)A人民币",
-      "change": "up"
-    },
-    {
-      "code": "513100",
-      "name": "纳指ETF国泰",
-      "change": "status"
-    },
-    {
-      "code": "019736",
-      "name": "宝盈纳斯达克100指数发起(QDII)A人民币",
-      "change": "up"
-    },
-    {
-      "code": "019737",
-      "name": "宝盈纳斯达克100指数发起(QDII)C人民币",
-      "change": "up"
-    }
-  ],
+  "changes": [],
   "funds": [
     {
       "index": "标普500",
@@ -70,7 +44,7 @@
       "type": "场外",
       "share": "C",
       "channel_note": "代销（第三方平台）100元；大成直销（官网/APP）1000元",
-      "change": "up"
+      "change": "same"
     },
     {
       "index": "标普500",
@@ -118,7 +92,7 @@
       "type": "场外",
       "share": "A",
       "channel_note": "代销（第三方平台）100元；大成直销（官网/APP）1000元",
-      "change": "up"
+      "change": "same"
     },
     {
       "index": "标普500",
@@ -286,7 +260,7 @@
       "type": "场外",
       "share": "—",
       "channel_note": "—",
-      "change": "status"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -526,7 +500,7 @@
       "type": "场外",
       "share": "A",
       "channel_note": "—",
-      "change": "up"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -538,7 +512,7 @@
       "type": "场外",
       "share": "C",
       "channel_note": "—",
-      "change": "up"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
