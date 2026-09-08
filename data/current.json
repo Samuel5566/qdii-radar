@@ -1,14 +1,40 @@
 {
-  "updated_at": "2026-09-08T07:32:38+08:00",
+  "updated_at": "2026-09-08T12:43:25+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
-    "otc_buyable": 38,
-    "changes": 0
+    "otc_buyable": 39,
+    "changes": 5
   },
-  "changes": [],
+  "changes": [
+    {
+      "code": "008401",
+      "name": "大成标普500等权重指数(QDII)C人民币",
+      "change": "up"
+    },
+    {
+      "code": "096001",
+      "name": "大成标普500等权重指数(QDII)A人民币",
+      "change": "up"
+    },
+    {
+      "code": "513100",
+      "name": "纳指ETF国泰",
+      "change": "status"
+    },
+    {
+      "code": "019736",
+      "name": "宝盈纳斯达克100指数发起(QDII)A人民币",
+      "change": "up"
+    },
+    {
+      "code": "019737",
+      "name": "宝盈纳斯达克100指数发起(QDII)C人民币",
+      "change": "up"
+    }
+  ],
   "funds": [
     {
       "index": "标普500",
@@ -39,12 +65,12 @@
       "code": "008401",
       "name": "大成标普500等权重指数(QDII)C人民币",
       "status": "限购",
-      "agency": 10,
-      "direct": 100,
+      "agency": 100,
+      "direct": 1000,
       "type": "场外",
       "share": "C",
-      "channel_note": "代销（第三方平台）10元；大成直销（官网/APP）100元",
-      "change": "same"
+      "channel_note": "代销（第三方平台）100元；大成直销（官网/APP）1000元",
+      "change": "up"
     },
     {
       "index": "标普500",
@@ -87,12 +113,12 @@
       "code": "096001",
       "name": "大成标普500等权重指数(QDII)A人民币",
       "status": "限购",
-      "agency": 10,
-      "direct": 100,
+      "agency": 100,
+      "direct": 1000,
       "type": "场外",
       "share": "A",
-      "channel_note": "代销（第三方平台）10元；大成直销（官网/APP）100元",
-      "change": "same"
+      "channel_note": "代销（第三方平台）100元；大成直销（官网/APP）1000元",
+      "change": "up"
     },
     {
       "index": "标普500",
@@ -249,6 +275,18 @@
       "share": "ETF",
       "channel_note": "—",
       "change": "same"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "513100",
+      "name": "纳指ETF国泰",
+      "status": "开放",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "—",
+      "channel_note": "—",
+      "change": "status"
     },
     {
       "index": "纳斯达克100",
@@ -483,24 +521,24 @@
       "code": "019736",
       "name": "宝盈纳斯达克100指数发起(QDII)A人民币",
       "status": "限购",
-      "agency": 10,
+      "agency": 200,
       "direct": 0,
       "type": "场外",
       "share": "A",
       "channel_note": "—",
-      "change": "same"
+      "change": "up"
     },
     {
       "index": "纳斯达克100",
       "code": "019737",
       "name": "宝盈纳斯达克100指数发起(QDII)C人民币",
       "status": "限购",
-      "agency": 10,
+      "agency": 200,
       "direct": 0,
       "type": "场外",
       "share": "C",
       "channel_note": "—",
-      "change": "same"
+      "change": "up"
     },
     {
       "index": "纳斯达克100",
@@ -739,18 +777,6 @@
       "direct": 0,
       "type": "场外",
       "share": "F",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
-      "code": "513100",
-      "name": "纳指ETF国泰",
-      "status": "暂停",
-      "agency": 0,
-      "direct": 0,
-      "type": "场外",
-      "share": "—",
       "channel_note": "—",
       "change": "same"
     },
