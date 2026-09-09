@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-09-09T14:01:44+08:00",
+  "updated_at": "2026-09-09T19:29:14+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
-    "otc_buyable": 39,
-    "changes": 0
+    "otc_buyable": 38,
+    "changes": 3
   },
-  "changes": [],
+  "changes": [
+    {
+      "code": "019441",
+      "name": "万家纳斯达克100指数发起式(QDII)A",
+      "change": "up"
+    },
+    {
+      "code": "019442",
+      "name": "万家纳斯达克100指数发起式(QDII)C",
+      "change": "up"
+    },
+    {
+      "code": "513100",
+      "name": "纳指ETF国泰",
+      "change": "status"
+    }
+  ],
   "funds": [
     {
       "index": "标普500",
@@ -252,18 +268,6 @@
     },
     {
       "index": "纳斯达克100",
-      "code": "513100",
-      "name": "纳指ETF国泰",
-      "status": "开放",
-      "agency": 0,
-      "direct": 0,
-      "type": "场外",
-      "share": "—",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
       "code": "000834",
       "name": "大成纳斯达克100ETF联接(QDII)A",
       "status": "限购",
@@ -423,24 +427,24 @@
       "code": "019441",
       "name": "万家纳斯达克100指数发起式(QDII)A",
       "status": "限购",
-      "agency": 10,
-      "direct": 0,
+      "agency": 5000,
+      "direct": 20000,
       "type": "场外",
       "share": "A",
-      "channel_note": "—",
-      "change": "same"
+      "channel_note": "代销（第三方平台）5000元；万家直销（官网/APP）2万元",
+      "change": "up"
     },
     {
       "index": "纳斯达克100",
       "code": "019442",
       "name": "万家纳斯达克100指数发起式(QDII)C",
       "status": "限购",
-      "agency": 10,
-      "direct": 0,
+      "agency": 5000,
+      "direct": 20000,
       "type": "场外",
       "share": "C",
-      "channel_note": "—",
-      "change": "same"
+      "channel_note": "代销（第三方平台）5000元；万家直销（官网/APP）2万元",
+      "change": "up"
     },
     {
       "index": "纳斯达克100",
@@ -837,6 +841,18 @@
       "share": "ETF",
       "channel_note": "—",
       "change": "same"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "513100",
+      "name": "纳指ETF国泰",
+      "status": "场内",
+      "agency": 0,
+      "direct": 0,
+      "type": "场内ETF",
+      "share": "ETF",
+      "channel_note": "—",
+      "change": "status"
     },
     {
       "index": "纳斯达克100",
