@@ -1,25 +1,14 @@
 {
-  "updated_at": "2026-09-10T14:01:33+08:00",
+  "updated_at": "2026-09-10T19:25:31+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
     "otc_buyable": 38,
-    "changes": 2
+    "changes": 0
   },
-  "changes": [
-    {
-      "code": "019441",
-      "name": "万家纳斯达克100指数发起式(QDII)A",
-      "change": "down"
-    },
-    {
-      "code": "019442",
-      "name": "万家纳斯达克100指数发起式(QDII)C",
-      "change": "down"
-    }
-  ],
+  "changes": [],
   "funds": [
     {
       "index": "标普500",
@@ -427,7 +416,7 @@
       "type": "场外",
       "share": "A",
       "channel_note": "代销（第三方平台）100元",
-      "change": "down"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -439,7 +428,7 @@
       "type": "场外",
       "share": "C",
       "channel_note": "代销（第三方平台）100元",
-      "change": "down"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
