@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-09-15T07:10:45+08:00",
+  "updated_at": "2026-09-15T09:31:39+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
     "otc_buyable": 37,
-    "changes": 0
+    "changes": 3
   },
-  "changes": [],
+  "changes": [
+    {
+      "code": "018966",
+      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币A",
+      "change": "up"
+    },
+    {
+      "code": "018967",
+      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币C",
+      "change": "up"
+    },
+    {
+      "code": "021773",
+      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币E",
+      "change": "up"
+    }
+  ],
   "funds": [
     {
       "index": "标普500",
@@ -364,11 +380,11 @@
       "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币A",
       "status": "限购",
       "agency": 10,
-      "direct": 0,
+      "direct": 1000,
       "type": "场外",
       "share": "A",
       "channel_note": "—",
-      "change": "same"
+      "change": "up"
     },
     {
       "index": "纳斯达克100",
@@ -376,11 +392,11 @@
       "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币C",
       "status": "限购",
       "agency": 10,
-      "direct": 0,
+      "direct": 1000,
       "type": "场外",
       "share": "C",
       "channel_note": "—",
-      "change": "same"
+      "change": "up"
     },
     {
       "index": "纳斯达克100",
@@ -520,11 +536,11 @@
       "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币E",
       "status": "限购",
       "agency": 10,
-      "direct": 0,
+      "direct": 1000,
       "type": "场外",
       "share": "E",
       "channel_note": "—",
-      "change": "same"
+      "change": "up"
     },
     {
       "index": "纳斯达克100",
