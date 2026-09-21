@@ -1,30 +1,14 @@
 {
-  "updated_at": "2026-09-21T14:25:27+08:00",
+  "updated_at": "2026-09-21T22:14:43+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
     "otc_buyable": 34,
-    "changes": 3
+    "changes": 0
   },
-  "changes": [
-    {
-      "code": "007721",
-      "name": "天弘标普500发起(QDII-FOF)A",
-      "change": "status"
-    },
-    {
-      "code": "018043",
-      "name": "天弘纳斯达克100指数发起(QDII)A",
-      "change": "status"
-    },
-    {
-      "code": "022525",
-      "name": "天弘纳斯达克100指数发起(QDII)D",
-      "change": "status"
-    }
-  ],
+  "changes": [],
   "funds": [
     {
       "index": "标普500",
@@ -120,7 +104,7 @@
       "type": "场外",
       "share": "A",
       "channel_note": "公告明确暂停申购",
-      "change": "status"
+      "change": "same"
     },
     {
       "index": "标普500",
@@ -696,7 +680,7 @@
       "type": "场外",
       "share": "A",
       "channel_note": "公告明确暂停申购",
-      "change": "status"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -732,7 +716,7 @@
       "type": "场外",
       "share": "D",
       "channel_note": "公告明确暂停申购",
-      "change": "status"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
