@@ -1,27 +1,31 @@
 {
-  "updated_at": "2026-09-21T09:10:06+08:00",
+  "updated_at": "2026-09-21T14:25:27+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
-    "otc_buyable": 37,
-    "changes": 0
+    "otc_buyable": 34,
+    "changes": 3
   },
-  "changes": [],
-  "funds": [
+  "changes": [
     {
-      "index": "标普500",
       "code": "007721",
       "name": "天弘标普500发起(QDII-FOF)A",
-      "status": "限购",
-      "agency": 100,
-      "direct": 0,
-      "type": "场外",
-      "share": "A",
-      "channel_note": "—",
-      "change": "same"
+      "change": "status"
     },
+    {
+      "code": "018043",
+      "name": "天弘纳斯达克100指数发起(QDII)A",
+      "change": "status"
+    },
+    {
+      "code": "022525",
+      "name": "天弘纳斯达克100指数发起(QDII)D",
+      "change": "status"
+    }
+  ],
+  "funds": [
     {
       "index": "标普500",
       "code": "007722",
@@ -105,6 +109,18 @@
       "share": "C",
       "channel_note": "—",
       "change": "same"
+    },
+    {
+      "index": "标普500",
+      "code": "007721",
+      "name": "天弘标普500发起(QDII-FOF)A",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "A",
+      "channel_note": "公告明确暂停申购",
+      "change": "status"
     },
     {
       "index": "标普500",
@@ -336,18 +352,6 @@
     },
     {
       "index": "纳斯达克100",
-      "code": "018043",
-      "name": "天弘纳斯达克100指数发起(QDII)A",
-      "status": "限购",
-      "agency": 100,
-      "direct": 0,
-      "type": "场外",
-      "share": "A",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
       "code": "018044",
       "name": "天弘纳斯达克100指数发起(QDII)C",
       "status": "限购",
@@ -528,18 +532,6 @@
     },
     {
       "index": "纳斯达克100",
-      "code": "022525",
-      "name": "天弘纳斯达克100指数发起(QDII)D",
-      "status": "限购",
-      "agency": 100,
-      "direct": 0,
-      "type": "场外",
-      "share": "D",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
       "code": "022664",
       "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)I",
       "status": "限购",
@@ -696,6 +688,18 @@
     },
     {
       "index": "纳斯达克100",
+      "code": "018043",
+      "name": "天弘纳斯达克100指数发起(QDII)A",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "A",
+      "channel_note": "公告明确暂停申购",
+      "change": "status"
+    },
+    {
+      "index": "纳斯达克100",
       "code": "021778",
       "name": "广发纳指100ETF联接(QDII)人民币F",
       "status": "暂停",
@@ -717,6 +721,18 @@
       "share": "I",
       "channel_note": "—",
       "change": "same"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "022525",
+      "name": "天弘纳斯达克100指数发起(QDII)D",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "D",
+      "channel_note": "公告明确暂停申购",
+      "change": "status"
     },
     {
       "index": "纳斯达克100",
