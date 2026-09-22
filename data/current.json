@@ -1,14 +1,60 @@
 {
-  "updated_at": "2026-09-22T07:20:26+08:00",
+  "updated_at": "2026-09-22T13:03:00+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
-    "otc_buyable": 34,
-    "changes": 0
+    "otc_buyable": 31,
+    "changes": 9
   },
-  "changes": [],
+  "changes": [
+    {
+      "code": "018966",
+      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币A",
+      "change": "down"
+    },
+    {
+      "code": "018967",
+      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币C",
+      "change": "down"
+    },
+    {
+      "code": "019524",
+      "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)A",
+      "change": "down"
+    },
+    {
+      "code": "019525",
+      "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)C",
+      "change": "down"
+    },
+    {
+      "code": "021773",
+      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币E",
+      "change": "down"
+    },
+    {
+      "code": "022664",
+      "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)I",
+      "change": "down"
+    },
+    {
+      "code": "006479",
+      "name": "广发纳斯达克100ETF联接人民币(QDII)C",
+      "change": "status"
+    },
+    {
+      "code": "160213",
+      "name": "国泰纳斯达克100指数",
+      "change": "status"
+    },
+    {
+      "code": "270042",
+      "name": "广发纳斯达克100ETF联接人民币(QDII)A",
+      "change": "status"
+    }
+  ],
   "funds": [
     {
       "index": "标普500",
@@ -264,18 +310,6 @@
     },
     {
       "index": "纳斯达克100",
-      "code": "006479",
-      "name": "广发纳斯达克100ETF联接人民币(QDII)C",
-      "status": "限购",
-      "agency": 2,
-      "direct": 0,
-      "type": "场外",
-      "share": "C",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
       "code": "008971",
       "name": "大成纳斯达克100ETF联接(QDII)C",
       "status": "限购",
@@ -352,11 +386,11 @@
       "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币A",
       "status": "限购",
       "agency": 10,
-      "direct": 1000,
+      "direct": 0,
       "type": "场外",
       "share": "A",
       "channel_note": "—",
-      "change": "same"
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
@@ -364,11 +398,11 @@
       "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币C",
       "status": "限购",
       "agency": 10,
-      "direct": 1000,
+      "direct": 0,
       "type": "场外",
       "share": "C",
       "channel_note": "—",
-      "change": "same"
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
@@ -423,24 +457,24 @@
       "code": "019524",
       "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)A",
       "status": "限购",
-      "agency": 10,
+      "agency": 5,
       "direct": 0,
       "type": "场外",
       "share": "A",
       "channel_note": "—",
-      "change": "same"
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
       "code": "019525",
       "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)C",
       "status": "限购",
-      "agency": 10,
+      "agency": 5,
       "direct": 0,
       "type": "场外",
       "share": "C",
       "channel_note": "—",
-      "change": "same"
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
@@ -508,23 +542,23 @@
       "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币E",
       "status": "限购",
       "agency": 10,
-      "direct": 1000,
+      "direct": 0,
       "type": "场外",
       "share": "E",
       "channel_note": "—",
-      "change": "same"
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
       "code": "022664",
       "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)I",
       "status": "限购",
-      "agency": 10,
+      "agency": 5,
       "direct": 0,
       "type": "场外",
       "share": "I",
       "channel_note": "—",
-      "change": "same"
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
@@ -552,30 +586,6 @@
     },
     {
       "index": "纳斯达克100",
-      "code": "160213",
-      "name": "国泰纳斯达克100指数",
-      "status": "限购",
-      "agency": 100,
-      "direct": 0,
-      "type": "场外",
-      "share": "—",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
-      "code": "270042",
-      "name": "广发纳斯达克100ETF联接人民币(QDII)A",
-      "status": "限购",
-      "agency": 2,
-      "direct": 0,
-      "type": "场外",
-      "share": "A",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
       "code": "539001",
       "name": "建信纳斯达克100指数(QDII)A人民币",
       "status": "限购",
@@ -585,6 +595,18 @@
       "share": "A",
       "channel_note": "代销（第三方平台）10元；建信直销（官网/APP）50元",
       "change": "same"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "006479",
+      "name": "广发纳斯达克100ETF联接人民币(QDII)C",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "C",
+      "channel_note": "公告明确暂停申购",
+      "change": "status"
     },
     {
       "index": "纳斯达克100",
@@ -691,7 +713,7 @@
       "direct": 0,
       "type": "场外",
       "share": "F",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -732,6 +754,18 @@
     },
     {
       "index": "纳斯达克100",
+      "code": "160213",
+      "name": "国泰纳斯达克100指数",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "—",
+      "channel_note": "公告明确暂停申购",
+      "change": "status"
+    },
+    {
+      "index": "纳斯达克100",
       "code": "161130",
       "name": "易方达纳斯达克100ETF联接(QDII-LOF)A(人民币)",
       "status": "暂停",
@@ -741,6 +775,18 @@
       "share": "F",
       "channel_note": "—",
       "change": "same"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "270042",
+      "name": "广发纳斯达克100ETF联接人民币(QDII)A",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "A",
+      "channel_note": "公告明确暂停申购",
+      "change": "status"
     },
     {
       "index": "纳斯达克100",
