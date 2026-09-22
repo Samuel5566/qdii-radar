@@ -1,60 +1,14 @@
 {
-  "updated_at": "2026-09-22T13:03:00+08:00",
+  "updated_at": "2026-09-22T18:01:55+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
     "otc_buyable": 31,
-    "changes": 9
+    "changes": 0
   },
-  "changes": [
-    {
-      "code": "018966",
-      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币A",
-      "change": "down"
-    },
-    {
-      "code": "018967",
-      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币C",
-      "change": "down"
-    },
-    {
-      "code": "019524",
-      "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)A",
-      "change": "down"
-    },
-    {
-      "code": "019525",
-      "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)C",
-      "change": "down"
-    },
-    {
-      "code": "021773",
-      "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币E",
-      "change": "down"
-    },
-    {
-      "code": "022664",
-      "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)I",
-      "change": "down"
-    },
-    {
-      "code": "006479",
-      "name": "广发纳斯达克100ETF联接人民币(QDII)C",
-      "change": "status"
-    },
-    {
-      "code": "160213",
-      "name": "国泰纳斯达克100指数",
-      "change": "status"
-    },
-    {
-      "code": "270042",
-      "name": "广发纳斯达克100ETF联接人民币(QDII)A",
-      "change": "status"
-    }
-  ],
+  "changes": [],
   "funds": [
     {
       "index": "标普500",
@@ -390,7 +344,7 @@
       "type": "场外",
       "share": "A",
       "channel_note": "—",
-      "change": "down"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -402,7 +356,7 @@
       "type": "场外",
       "share": "C",
       "channel_note": "—",
-      "change": "down"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -462,7 +416,7 @@
       "type": "场外",
       "share": "A",
       "channel_note": "—",
-      "change": "down"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -474,7 +428,7 @@
       "type": "场外",
       "share": "C",
       "channel_note": "—",
-      "change": "down"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -546,7 +500,7 @@
       "type": "场外",
       "share": "E",
       "channel_note": "—",
-      "change": "down"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -558,7 +512,7 @@
       "type": "场外",
       "share": "I",
       "channel_note": "—",
-      "change": "down"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -606,7 +560,7 @@
       "type": "场外",
       "share": "C",
       "channel_note": "公告明确暂停申购",
-      "change": "status"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -762,7 +716,7 @@
       "type": "场外",
       "share": "—",
       "channel_note": "公告明确暂停申购",
-      "change": "status"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -786,7 +740,7 @@
       "type": "场外",
       "share": "A",
       "channel_note": "公告明确暂停申购",
-      "change": "status"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
