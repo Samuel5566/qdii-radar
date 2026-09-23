@@ -1,14 +1,35 @@
 {
-  "updated_at": "2026-09-23T08:39:43+08:00",
+  "updated_at": "2026-09-23T14:02:02+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
     "otc_buyable": 31,
-    "changes": 0
+    "changes": 4
   },
-  "changes": [],
+  "changes": [
+    {
+      "code": "014978",
+      "name": "华安纳斯达克100ETF联接(QDII)C",
+      "change": "down"
+    },
+    {
+      "code": "019441",
+      "name": "万家纳斯达克100指数发起式(QDII)A",
+      "change": "down"
+    },
+    {
+      "code": "019442",
+      "name": "万家纳斯达克100指数发起式(QDII)C",
+      "change": "down"
+    },
+    {
+      "code": "040046",
+      "name": "华安纳斯达克100ETF联接(QDII)A",
+      "change": "down"
+    }
+  ],
   "funds": [
     {
       "index": "标普500",
@@ -291,12 +312,12 @@
       "code": "014978",
       "name": "华安纳斯达克100ETF联接(QDII)C",
       "status": "限购",
-      "agency": 10,
-      "direct": 100,
+      "agency": 5,
+      "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "代销（第三方平台）10元；华安直销（官网/APP）100元",
-      "change": "same"
+      "channel_note": "代销（第三方平台）5元",
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
@@ -387,24 +408,24 @@
       "code": "019441",
       "name": "万家纳斯达克100指数发起式(QDII)A",
       "status": "限购",
-      "agency": 100,
+      "agency": 10,
       "direct": 0,
       "type": "场外",
       "share": "A",
-      "channel_note": "代销（第三方平台）100元",
-      "change": "same"
+      "channel_note": "代销（第三方平台）10元",
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
       "code": "019442",
       "name": "万家纳斯达克100指数发起式(QDII)C",
       "status": "限购",
-      "agency": 100,
+      "agency": 10,
       "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "代销（第三方平台）100元",
-      "change": "same"
+      "channel_note": "代销（第三方平台）10元",
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
@@ -531,12 +552,12 @@
       "code": "040046",
       "name": "华安纳斯达克100ETF联接(QDII)A",
       "status": "限购",
-      "agency": 10,
-      "direct": 100,
+      "agency": 5,
+      "direct": 0,
       "type": "场外",
       "share": "A",
-      "channel_note": "代销（第三方平台）10元；华安直销（官网/APP）100元",
-      "change": "same"
+      "channel_note": "代销（第三方平台）5元",
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
