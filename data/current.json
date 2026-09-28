@@ -1,27 +1,41 @@
 {
-  "updated_at": "2026-09-28T08:53:36+08:00",
+  "updated_at": "2026-09-28T14:59:38+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
-    "otc_buyable": 28,
-    "changes": 0
+    "otc_buyable": 25,
+    "changes": 5
   },
-  "changes": [],
-  "funds": [
+  "changes": [
     {
-      "index": "标普500",
       "code": "007722",
       "name": "天弘标普500发起(QDII-FOF)C",
-      "status": "限购",
-      "agency": 100,
-      "direct": 0,
-      "type": "场外",
-      "share": "C",
-      "channel_note": "—",
-      "change": "same"
+      "change": "status"
     },
+    {
+      "code": "022523",
+      "name": "天弘标普500发起(QDII-FOF)D",
+      "change": "status"
+    },
+    {
+      "code": "019736",
+      "name": "宝盈纳斯达克100指数发起(QDII)A人民币",
+      "change": "down"
+    },
+    {
+      "code": "019737",
+      "name": "宝盈纳斯达克100指数发起(QDII)C人民币",
+      "change": "down"
+    },
+    {
+      "code": "018044",
+      "name": "天弘纳斯达克100指数发起(QDII)C",
+      "change": "status"
+    }
+  ],
+  "funds": [
     {
       "index": "标普500",
       "code": "008401",
@@ -60,18 +74,6 @@
     },
     {
       "index": "标普500",
-      "code": "022523",
-      "name": "天弘标普500发起(QDII-FOF)D",
-      "status": "限购",
-      "agency": 100,
-      "direct": 0,
-      "type": "场外",
-      "share": "D",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "标普500",
       "code": "096001",
       "name": "大成标普500等权重指数(QDII)A人民币",
       "status": "限购",
@@ -105,6 +107,18 @@
       "share": "A",
       "channel_note": "公告明确暂停申购",
       "change": "same"
+    },
+    {
+      "index": "标普500",
+      "code": "007722",
+      "name": "天弘标普500发起(QDII-FOF)C",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "C",
+      "channel_note": "—",
+      "change": "status"
     },
     {
       "index": "标普500",
@@ -177,6 +191,18 @@
       "share": "—",
       "channel_note": "—",
       "change": "same"
+    },
+    {
+      "index": "标普500",
+      "code": "022523",
+      "name": "天弘标普500发起(QDII-FOF)D",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "D",
+      "channel_note": "全渠道暂停：支付宝暂停申购、天弘 APP 不上架、天天基金不代销（用户 2026-09-28 实查）",
+      "change": "status"
     },
     {
       "index": "标普500",
@@ -324,18 +350,6 @@
     },
     {
       "index": "纳斯达克100",
-      "code": "018044",
-      "name": "天弘纳斯达克100指数发起(QDII)C",
-      "status": "限购",
-      "agency": 100,
-      "direct": 0,
-      "type": "场外",
-      "share": "C",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
       "code": "019172",
       "name": "摩根纳斯达克100指数(QDII)人民币A",
       "status": "限购",
@@ -435,24 +449,24 @@
       "code": "019736",
       "name": "宝盈纳斯达克100指数发起(QDII)A人民币",
       "status": "限购",
-      "agency": 200,
+      "agency": 10,
       "direct": 0,
       "type": "场外",
       "share": "A",
       "channel_note": "—",
-      "change": "same"
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
       "code": "019737",
       "name": "宝盈纳斯达克100指数发起(QDII)C人民币",
       "status": "限购",
-      "agency": 200,
+      "agency": 10,
       "direct": 0,
       "type": "场外",
       "share": "C",
       "channel_note": "—",
-      "change": "same"
+      "change": "down"
     },
     {
       "index": "纳斯达克100",
@@ -621,6 +635,18 @@
       "share": "A",
       "channel_note": "公告明确暂停申购",
       "change": "same"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "018044",
+      "name": "天弘纳斯达克100指数发起(QDII)C",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "C",
+      "channel_note": "—",
+      "change": "status"
     },
     {
       "index": "纳斯达克100",
