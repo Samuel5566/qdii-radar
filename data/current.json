@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T10:01:27+08:00",
+  "updated_at": "2026-09-29T16:36:31+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
@@ -91,7 +91,7 @@
       "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -619,7 +619,7 @@
       "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
