@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T08:36:12+08:00",
+  "updated_at": "2026-10-12T15:25:41+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
@@ -223,7 +223,7 @@
       "direct": 0,
       "type": "场内ETF",
       "share": "ETF",
-      "channel_note": "—",
+      "channel_note": "节假日暂停期已满，公告明示2026-09-08起恢复申赎",
       "change": "same"
     },
     {
@@ -859,7 +859,7 @@
       "direct": 0,
       "type": "场内ETF",
       "share": "ETF",
-      "channel_note": "—",
+      "channel_note": "节假日暂停期已满，公告明示2026-09-08起恢复申赎",
       "change": "same"
     },
     {
