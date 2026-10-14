@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-10-14T09:15:54+08:00",
+  "updated_at": "2026-10-14T14:14:11+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
-    "otc_buyable": 28,
-    "changes": 0
+    "otc_buyable": 26,
+    "changes": 3
   },
-  "changes": [],
+  "changes": [
+    {
+      "code": "021778",
+      "name": "广发纳指100ETF联接(QDII)人民币F",
+      "change": "up"
+    },
+    {
+      "code": "019547",
+      "name": "招商纳斯达克100ETF发起式联接(QDII)A",
+      "change": "status"
+    },
+    {
+      "code": "019548",
+      "name": "招商纳斯达克100ETF发起式联接(QDII)C",
+      "change": "status"
+    }
+  ],
   "funds": [
     {
       "index": "标普500",
@@ -67,7 +83,7 @@
       "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -103,7 +119,7 @@
       "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -115,7 +131,7 @@
       "direct": 0,
       "type": "场外",
       "share": "A",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -127,7 +143,7 @@
       "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -187,7 +203,7 @@
       "direct": 0,
       "type": "场外",
       "share": "A",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -199,7 +215,7 @@
       "direct": 0,
       "type": "场外",
       "share": "A",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -252,18 +268,6 @@
     },
     {
       "index": "纳斯达克100",
-      "code": "021778",
-      "name": "广发纳指100ETF联接(QDII)人民币F",
-      "status": "限购",
-      "agency": 0,
-      "direct": 0,
-      "type": "场外",
-      "share": "F",
-      "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
       "code": "000834",
       "name": "大成纳斯达克100ETF联接(QDII)A",
       "status": "限购",
@@ -283,7 +287,7 @@
       "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "代销：人民币 A/C 类各 10.00 元，F 类不通过代销销售；直销（网上直销系统个人 / 直销中心机构）：F 类 100.00 元，同时可买 A/C 类（各 10.00 元）。依据=10-13恢复公告 + 2026-06-05 招募说明书第九部分、第十二部分。 | 006479=C类人民币。",
+      "channel_note": "—",
       "change": "same"
     },
     {
@@ -420,30 +424,6 @@
     },
     {
       "index": "纳斯达克100",
-      "code": "019547",
-      "name": "招商纳斯达克100ETF发起式联接(QDII)A",
-      "status": "限购",
-      "agency": 10,
-      "direct": 0,
-      "type": "场外",
-      "share": "A",
-      "channel_note": "代销（第三方平台）10元",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
-      "code": "019548",
-      "name": "招商纳斯达克100ETF发起式联接(QDII)C",
-      "status": "限购",
-      "agency": 10,
-      "direct": 0,
-      "type": "场外",
-      "share": "C",
-      "channel_note": "代销（第三方平台）10元",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
       "code": "019736",
       "name": "宝盈纳斯达克100指数发起(QDII)A人民币",
       "status": "限购",
@@ -477,6 +457,18 @@
       "share": "I",
       "channel_note": "仅南方基金直销(APP/官网)，代销无此额度",
       "change": "same"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "021778",
+      "name": "广发纳指100ETF联接(QDII)人民币F",
+      "status": "限购",
+      "agency": 0,
+      "direct": 100,
+      "type": "场外",
+      "share": "F",
+      "channel_note": "—",
+      "change": "up"
     },
     {
       "index": "纳斯达克100",
@@ -547,7 +539,7 @@
       "direct": 0,
       "type": "场外",
       "share": "F",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -583,7 +575,7 @@
       "direct": 0,
       "type": "场外",
       "share": "A",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -595,7 +587,7 @@
       "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -607,7 +599,7 @@
       "direct": 0,
       "type": "场外",
       "share": "A",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -619,7 +611,7 @@
       "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -672,6 +664,30 @@
     },
     {
       "index": "纳斯达克100",
+      "code": "019547",
+      "name": "招商纳斯达克100ETF发起式联接(QDII)A",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "A",
+      "channel_note": "公告明确暂停申购",
+      "change": "status"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "019548",
+      "name": "招商纳斯达克100ETF发起式联接(QDII)C",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "C",
+      "channel_note": "公告明确暂停申购",
+      "change": "status"
+    },
+    {
+      "index": "纳斯达克100",
       "code": "021773",
       "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币E",
       "status": "暂停",
@@ -691,7 +707,7 @@
       "direct": 0,
       "type": "场外",
       "share": "I",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -715,7 +731,7 @@
       "direct": 0,
       "type": "场外",
       "share": "I",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -739,7 +755,7 @@
       "direct": 0,
       "type": "场外",
       "share": "F",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -775,7 +791,7 @@
       "direct": 0,
       "type": "场内ETF",
       "share": "ETF",
-      "channel_note": "—",
+      "channel_note": "恢复公告未明确解析出限额或不限额依据",
       "change": "same"
     },
     {
@@ -883,7 +899,7 @@
       "direct": 0,
       "type": "场内ETF",
       "share": "ETF",
-      "channel_note": "—",
+      "channel_note": "恢复公告未明确解析出限额或不限额依据",
       "change": "same"
     }
   ]
