@@ -1,30 +1,14 @@
 {
-  "updated_at": "2026-10-14T14:14:11+08:00",
+  "updated_at": "2026-10-14T20:02:59+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
     "otc_buyable": 26,
-    "changes": 3
+    "changes": 0
   },
-  "changes": [
-    {
-      "code": "021778",
-      "name": "广发纳指100ETF联接(QDII)人民币F",
-      "change": "up"
-    },
-    {
-      "code": "019547",
-      "name": "招商纳斯达克100ETF发起式联接(QDII)A",
-      "change": "status"
-    },
-    {
-      "code": "019548",
-      "name": "招商纳斯达克100ETF发起式联接(QDII)C",
-      "change": "status"
-    }
-  ],
+  "changes": [],
   "funds": [
     {
       "index": "标普500",
@@ -155,7 +139,7 @@
       "direct": 0,
       "type": "场外",
       "share": "I",
-      "channel_note": "代销与直销均暂停申购",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -167,7 +151,7 @@
       "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "代销与直销均暂停申购",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -179,7 +163,7 @@
       "direct": 0,
       "type": "场外",
       "share": "—",
-      "channel_note": "—",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -468,7 +452,7 @@
       "type": "场外",
       "share": "F",
       "channel_note": "—",
-      "change": "up"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -551,7 +535,7 @@
       "direct": 0,
       "type": "场外",
       "share": "A",
-      "channel_note": "代销与直销均暂停申购",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -563,7 +547,7 @@
       "direct": 0,
       "type": "场外",
       "share": "C",
-      "channel_note": "代销与直销均暂停申购",
+      "channel_note": "公告明确暂停申购",
       "change": "same"
     },
     {
@@ -672,7 +656,7 @@
       "type": "场外",
       "share": "A",
       "channel_note": "公告明确暂停申购",
-      "change": "status"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -684,7 +668,7 @@
       "type": "场外",
       "share": "C",
       "channel_note": "公告明确暂停申购",
-      "change": "status"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
