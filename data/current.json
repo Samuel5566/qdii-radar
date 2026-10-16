@@ -1,26 +1,37 @@
 {
-  "updated_at": "2026-10-16T06:23:38+08:00",
+  "updated_at": "2026-10-16T09:25:15+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
     "otc_buyable": 23,
-    "changes": 0
+    "changes": 2
   },
-  "changes": [],
+  "changes": [
+    {
+      "code": "008401",
+      "name": "大成标普500等权重指数(QDII)C人民币",
+      "change": "down"
+    },
+    {
+      "code": "096001",
+      "name": "大成标普500等权重指数(QDII)A人民币",
+      "change": "down"
+    }
+  ],
   "funds": [
     {
       "index": "标普500",
       "code": "008401",
       "name": "大成标普500等权重指数(QDII)C人民币",
       "status": "限购",
-      "agency": 100,
-      "direct": 1000,
+      "agency": 50,
+      "direct": 500,
       "type": "场外",
       "share": "C",
-      "channel_note": "代销（第三方平台）100元；大成直销（官网/APP）1000元",
-      "change": "same"
+      "channel_note": "代销（第三方平台）50元；大成直销（官网/APP）500元",
+      "change": "down"
     },
     {
       "index": "标普500",
@@ -51,12 +62,12 @@
       "code": "096001",
       "name": "大成标普500等权重指数(QDII)A人民币",
       "status": "限购",
-      "agency": 100,
-      "direct": 1000,
+      "agency": 50,
+      "direct": 500,
       "type": "场外",
       "share": "A",
-      "channel_note": "代销（第三方平台）100元；大成直销（官网/APP）1000元",
-      "change": "same"
+      "channel_note": "代销（第三方平台）50元；大成直销（官网/APP）500元",
+      "change": "down"
     },
     {
       "index": "标普500",
