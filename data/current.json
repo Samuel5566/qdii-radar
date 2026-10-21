@@ -1,25 +1,14 @@
 {
-  "updated_at": "2026-10-21T12:55:41+08:00",
+  "updated_at": "2026-10-21T18:15:24+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
     "otc_buyable": 21,
-    "changes": 2
+    "changes": 0
   },
-  "changes": [
-    {
-      "code": "014978",
-      "name": "华安纳斯达克100ETF联接(QDII)C",
-      "change": "status"
-    },
-    {
-      "code": "040046",
-      "name": "华安纳斯达克100ETF联接(QDII)A",
-      "change": "status"
-    }
-  ],
+  "changes": [],
   "funds": [
     {
       "index": "标普500",
@@ -499,7 +488,7 @@
       "type": "场外",
       "share": "C",
       "channel_note": "公告明确暂停申购",
-      "change": "status"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
@@ -715,7 +704,7 @@
       "type": "场外",
       "share": "A",
       "channel_note": "公告明确暂停申购",
-      "change": "status"
+      "change": "same"
     },
     {
       "index": "纳斯达克100",
