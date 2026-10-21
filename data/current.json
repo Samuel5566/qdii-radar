@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-10-21T07:56:35+08:00",
+  "updated_at": "2026-10-21T12:55:41+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
-    "otc_buyable": 23,
-    "changes": 0
+    "otc_buyable": 21,
+    "changes": 2
   },
-  "changes": [],
+  "changes": [
+    {
+      "code": "014978",
+      "name": "华安纳斯达克100ETF联接(QDII)C",
+      "change": "status"
+    },
+    {
+      "code": "040046",
+      "name": "华安纳斯达克100ETF联接(QDII)A",
+      "change": "status"
+    }
+  ],
   "funds": [
     {
       "index": "标普500",
@@ -288,18 +299,6 @@
     },
     {
       "index": "纳斯达克100",
-      "code": "014978",
-      "name": "华安纳斯达克100ETF联接(QDII)C",
-      "status": "限购",
-      "agency": 5,
-      "direct": 0,
-      "type": "场外",
-      "share": "C",
-      "channel_note": "代销（第三方平台）5元",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
       "code": "016452",
       "name": "南方纳斯达克100指数发起(QDII)A",
       "status": "限购",
@@ -351,11 +350,11 @@
       "code": "019441",
       "name": "万家纳斯达克100指数发起式(QDII)A",
       "status": "限购",
-      "agency": 10,
+      "agency": 5,
       "direct": 100,
       "type": "场外",
       "share": "A",
-      "channel_note": "代销（第三方平台）10元；万家直销（官网/APP）100元",
+      "channel_note": "代销（第三方平台）5元；万家直销（官网/APP）100元",
       "change": "same"
     },
     {
@@ -363,11 +362,11 @@
       "code": "019442",
       "name": "万家纳斯达克100指数发起式(QDII)C",
       "status": "限购",
-      "agency": 10,
+      "agency": 5,
       "direct": 100,
       "type": "场外",
       "share": "C",
-      "channel_note": "代销（第三方平台）10元；万家直销（官网/APP）100元",
+      "channel_note": "代销（第三方平台）5元；万家直销（官网/APP）100元",
       "change": "same"
     },
     {
@@ -456,18 +455,6 @@
     },
     {
       "index": "纳斯达克100",
-      "code": "040046",
-      "name": "华安纳斯达克100ETF联接(QDII)A",
-      "status": "限购",
-      "agency": 5,
-      "direct": 0,
-      "type": "场外",
-      "share": "A",
-      "channel_note": "代销（第三方平台）5元",
-      "change": "same"
-    },
-    {
-      "index": "纳斯达克100",
       "code": "539001",
       "name": "建信纳斯达克100指数(QDII)A人民币",
       "status": "限购",
@@ -501,6 +488,18 @@
       "share": "F",
       "channel_note": "公告明确暂停申购",
       "change": "same"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "014978",
+      "name": "华安纳斯达克100ETF联接(QDII)C",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "C",
+      "channel_note": "公告明确暂停申购",
+      "change": "status"
     },
     {
       "index": "纳斯达克100",
@@ -705,6 +704,18 @@
       "share": "I",
       "channel_note": "公告明确暂停申购",
       "change": "same"
+    },
+    {
+      "index": "纳斯达克100",
+      "code": "040046",
+      "name": "华安纳斯达克100ETF联接(QDII)A",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "A",
+      "channel_note": "公告明确暂停申购",
+      "change": "status"
     },
     {
       "index": "纳斯达克100",
