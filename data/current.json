@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-11-01T23:15:06+08:00",
+  "updated_at": "2026-11-02T14:15:30+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
-    "otc_buyable": 21,
-    "changes": 0
+    "otc_buyable": 22,
+    "changes": 1
   },
-  "changes": [],
+  "changes": [
+    {
+      "code": "022523",
+      "name": "天弘标普500发起(QDII-FOF)D",
+      "change": "status"
+    }
+  ],
   "funds": [
     {
       "index": "标普500",
@@ -45,6 +51,18 @@
       "share": "C",
       "channel_note": "—",
       "change": "same"
+    },
+    {
+      "index": "标普500",
+      "code": "022523",
+      "name": "天弘标普500发起(QDII-FOF)D",
+      "status": "限购",
+      "agency": 100,
+      "direct": 0,
+      "type": "场外",
+      "share": "D",
+      "channel_note": "公告未暂停D类；2026-09-28实查支付宝、天弘APP、天天基金均无法买入，非今日实时核查。",
+      "change": "status"
     },
     {
       "index": "标普500",
@@ -164,18 +182,6 @@
       "type": "场外",
       "share": "—",
       "channel_note": "公告明确暂停申购",
-      "change": "same"
-    },
-    {
-      "index": "标普500",
-      "code": "022523",
-      "name": "天弘标普500发起(QDII-FOF)D",
-      "status": "暂停",
-      "agency": 0,
-      "direct": 0,
-      "type": "场外",
-      "share": "D",
-      "channel_note": "全渠道暂停：支付宝暂停申购、天弘 APP 不上架、天天基金不代销（用户 2026-09-28 实查）",
       "change": "same"
     },
     {
