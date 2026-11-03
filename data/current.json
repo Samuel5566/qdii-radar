@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T07:37:00+08:00",
+  "updated_at": "2026-11-03T14:54:25+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
@@ -55,7 +55,7 @@
       "direct": 0,
       "type": "场外",
       "share": "D",
-      "channel_note": "公告未暂停D类；2026-09-28实查支付宝、天弘APP、天天基金均无法买入，非今日实时核查。",
+      "channel_note": "2026-11-02用户实测腾讯理财（腾讯腾安）可提交100元定投，资金处理中；9/28三个渠道不可买为历史观察，不代表全渠道不可买。",
       "change": "same"
     },
     {
