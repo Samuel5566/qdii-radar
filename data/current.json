@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-11-16T10:47:29+08:00",
+  "updated_at": "2026-11-16T19:30:57+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
-    "otc_buyable": 22,
-    "changes": 0
+    "otc_buyable": 21,
+    "changes": 1
   },
-  "changes": [],
+  "changes": [
+    {
+      "code": "022523",
+      "name": "天弘标普500发起(QDII-FOF)D",
+      "change": "status"
+    }
+  ],
   "funds": [
     {
       "index": "标普500",
@@ -44,18 +50,6 @@
       "type": "场外",
       "share": "C",
       "channel_note": "—",
-      "change": "same"
-    },
-    {
-      "index": "标普500",
-      "code": "022523",
-      "name": "天弘标普500发起(QDII-FOF)D",
-      "status": "限购",
-      "agency": 100,
-      "direct": 0,
-      "type": "场外",
-      "share": "D",
-      "channel_note": "2026-11-04用户确认：腾讯理财（腾讯腾安）定投100元/日可申购；仅该平台定投，不代表普通单笔申购或其他渠道可买。9/28三个渠道不可买为历史观察，不代表全渠道不可买。",
       "change": "same"
     },
     {
@@ -177,6 +171,18 @@
       "share": "—",
       "channel_note": "公告明确暂停申购",
       "change": "same"
+    },
+    {
+      "index": "标普500",
+      "code": "022523",
+      "name": "天弘标普500发起(QDII-FOF)D",
+      "status": "暂停",
+      "agency": 0,
+      "direct": 0,
+      "type": "场外",
+      "share": "D",
+      "channel_note": "—",
+      "change": "status"
     },
     {
       "index": "标普500",
