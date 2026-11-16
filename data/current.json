@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-11-16T19:30:57+08:00",
+  "updated_at": "2026-11-17T06:11:06+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
     "nasdaq100": 53,
     "sp500": 20,
     "otc_buyable": 21,
-    "changes": 1
+    "changes": 0
   },
-  "changes": [
-    {
-      "code": "022523",
-      "name": "天弘标普500发起(QDII-FOF)D",
-      "change": "status"
-    }
-  ],
+  "changes": [],
   "funds": [
     {
       "index": "标普500",
@@ -182,7 +176,7 @@
       "type": "场外",
       "share": "D",
       "channel_note": "—",
-      "change": "status"
+      "change": "same"
     },
     {
       "index": "标普500",
