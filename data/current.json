@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T06:11:06+08:00",
+  "updated_at": "2026-11-17T12:32:52+08:00",
   "source": "https://anxinletech.com/instrument-qdii.html",
   "summary": {
     "total": 73,
@@ -679,7 +679,7 @@
       "direct": 0,
       "type": "场外",
       "share": "D",
-      "channel_note": "公告明确暂停申购",
+      "channel_note": "2026-11-16用户京东APP实查：机构限制单日买入100元，可设置定投；按指定渠道单列，不计入代销/直销合计；天天基金等其他代销渠道仍按暂停计。",
       "change": "same"
     },
     {
